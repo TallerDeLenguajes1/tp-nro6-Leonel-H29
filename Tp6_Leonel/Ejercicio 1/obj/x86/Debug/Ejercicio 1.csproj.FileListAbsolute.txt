@@ -1,0 +1,4 @@
+C:\Users\Aldo Herrera\Desktop\Taller\TP6\tp-nro6-Leonel-H29\Tp6_Leonel\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Aldo Herrera\Desktop\Taller\TP6\tp-nro6-Leonel-H29\Tp6_Leonel\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Aldo Herrera\Desktop\Taller\TP6\tp-nro6-Leonel-H29\Tp6_Leonel\Ejercicio 1\obj\x86\Debug\Ejercicio 1.exe
+C:\Users\Aldo Herrera\Desktop\Taller\TP6\tp-nro6-Leonel-H29\Tp6_Leonel\Ejercicio 1\obj\x86\Debug\Ejercicio 1.pdb
