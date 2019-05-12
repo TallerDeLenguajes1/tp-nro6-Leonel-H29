@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{EB8C2F41-F2C9-49FC-85AF-7E16B08059EE}</ProjectGuid>
+    <ProjectGuid>{E449F095-B3E9-44F4-BD93-E330491DDD1E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ejercicio_5</RootNamespace>
-    <AssemblyName>Ejercicio 5</AssemblyName>
+    <RootNamespace>Ejercicio_4</RootNamespace>
+    <AssemblyName>Ejercicio 4</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
