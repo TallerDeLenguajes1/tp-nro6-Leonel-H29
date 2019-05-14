@@ -79,30 +79,26 @@ namespace Ejercicio_4
                 if (cadena.Contains("+")==true) {
                     operacion = '+';
                     string[] partes = cadena.Split(operacion);
-                    string[] digitos = Regex.Split(partes[0], @"\D+");
-                    num1 = Convert.ToInt32(digitos[0]);
-                    num2 = Convert.ToInt32(digitos[1]);
+                    num1 = Convert.ToInt32(partes[0]);
+                    num2 = Convert.ToInt32(partes[1]);
                 }
                 if (cadena.Contains("-") == true){
                     operacion = '-';
                     string[] partes = cadena.Split(operacion);
-                    string[] digitos = Regex.Split(partes[0], @"\D+");
-                    num1 = Convert.ToInt32(digitos[0]);
-                    num2 = Convert.ToInt32(digitos[1]);
+                    num1 = Convert.ToInt32(partes[0]);
+                    num2 = Convert.ToInt32(partes[1]);
                 }
                 if (cadena.Contains("*") == true){
                     operacion = '*';
                     string[] partes = cadena.Split(operacion);
-                    string[] digitos = Regex.Split(partes[0], @"\D+");
-                    num1 = Convert.ToInt32(digitos[0]);
-                    num2 = Convert.ToInt32(digitos[1]);
+                    num1 = Convert.ToInt32(partes[0]);
+                    num2 = Convert.ToInt32(partes[1]);
                 }
                 if (cadena.Contains("/") == true){
                     operacion = '/';
                     string[] partes = cadena.Split(operacion);
-                    string[] digitos = Regex.Split(partes[0], @"\D+");
-                    num1 = Convert.ToInt32(digitos[0]);
-                    num2 = Convert.ToInt32(digitos[1]);
+                    num1 = Convert.ToInt32(partes[0]);
+                    num2 = Convert.ToInt32(partes[1]);
                 }
 
                 //Veo el segundo numero
